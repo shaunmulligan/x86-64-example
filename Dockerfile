@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM resin/nuc-python
 
 MAINTAINER Shaun Mulligan <shaun@resin.io>
 
